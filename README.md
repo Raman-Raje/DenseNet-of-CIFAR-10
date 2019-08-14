@@ -22,3 +22,13 @@ If you want to see the ***original author's code*** or ***other implementations*
 
 ## Compare Structure (CNN, ResNet, DenseNet)
 ![compare](./assests/compare.JPG)
+
+
+## Implementation:
+* Implemented **DenseNet-BC (k =12 ,L = 100) [0.76M parameters]**. 
+* Network Trained on 70 Epochs.
+* No Dropout was used
+* Image Augmentation was used.
+
+## Results:
+I was able to achieve accuracy of **92.7%** by training for 70 Epochs.
