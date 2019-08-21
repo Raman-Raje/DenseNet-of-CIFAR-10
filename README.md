@@ -34,6 +34,6 @@ If you want to see the ***original author's code*** or ***other implementations*
 I was able to achieve accuracy of **92.7%** by training for 70 Epochs.
 
 ### Loss And Accuracy Plots
-![Loss and Accuracy](./loss_acc.png)
+![Loss and Accuracy](./loss_acc.PNG)
 ### Confusion Matrix
-![Confusion](./cf.png)
+![Confusion](./cf.PNG)
